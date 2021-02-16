@@ -1,2 +1,2 @@
 # MLPs
-Examples of MLP implementations.
+MLP implementations
